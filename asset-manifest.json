@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/traveller-app/static/css/main.f896abd4.css",
+    "main.js": "/traveller-app/static/js/main.c0065cd4.js",
+    "static/js/787.2dba336e.chunk.js": "/traveller-app/static/js/787.2dba336e.chunk.js",
+    "static/media/place.svg": "/traveller-app/static/media/place.7d64241c68d27142eb06e55910cd545d.svg",
+    "index.html": "/traveller-app/index.html",
+    "static/media/logo.svg": "/traveller-app/static/media/logo.5c4eda4450d0e16102da816513cee50f.svg",
+    "main.f896abd4.css.map": "/traveller-app/static/css/main.f896abd4.css.map",
+    "main.c0065cd4.js.map": "/traveller-app/static/js/main.c0065cd4.js.map",
+    "787.2dba336e.chunk.js.map": "/traveller-app/static/js/787.2dba336e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f896abd4.css",
+    "static/js/main.c0065cd4.js"
+  ]
+}
