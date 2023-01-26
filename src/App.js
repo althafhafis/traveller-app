@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router, Routes, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Switch } from 'react-router-dom';
 import Places from './components/screens/Places';
 import Place from './components/screens/Place';
 import NotFound from './components/screens/NotFound';
